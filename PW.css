@@ -1,0 +1,45 @@
+body
+{
+	background-color: black;
+	background-repeat: no-repeat;
+}
+
+
+a:link, a:visited {
+    color:blue;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+#A{
+	position: fixed;
+    height:70px;
+    width:1400px;
+    background:#404040;
+    margin-top:-.6%;
+    margin-left:-.6%;
+    margin-right:6%;
+    margin-right: auto;
+    opacity:1;
+   
+}
+
+.P{
+	border-radius: 300px;
+	width: 350px;
+	height: 380px;
+}
+.M
+{
+	width: 900px;
+	height: 450px;
+}
+.n
+{
+	width: 850px;
+	height: 600px;
+}
+.L{
+    border-radius: 50px;
+}
